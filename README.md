@@ -23,5 +23,5 @@ I love the entire process of ideating and building applications. Spending time t
 ## 🌱 I'm currently learning
 
 - 📱 React Native
-- Styled Components  
+ 
 
