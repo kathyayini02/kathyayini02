@@ -4,9 +4,7 @@
 Hi there, I'm Kathyayini</a> 👋
 </h3>
 
-<h2 align="center">
-I'm a Dev 💻,Musician!
-</h2> 
+
 
 I love the entire process of ideating and building applications. Spending time to meet new people to connect with them will always be the thing I'm up for. Probably looking up things when you're reading this coz I litreally while away my time being curious about learning new stuff!! See ya in my socialm handles then byebyee <3
 
